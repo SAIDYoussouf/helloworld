@@ -1,3 +1,3 @@
-# helloworld
+# bonjour monde
 
-Simple projet
+Projet simple
